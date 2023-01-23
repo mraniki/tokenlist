@@ -21,12 +21,12 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
     },
      {
-      "name": "ETH",
+      "name": "Binance-Peg Ethereum Token",
       "symbol": "ETH",
-      "address": "",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+      "logoURI": "https://bscscan.com/token/images/ethereum_32.png"
     },
      {
       "name": "Wrapped BTC",
