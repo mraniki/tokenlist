@@ -99,7 +99,6 @@
       "chainId": 10,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
-    },    
- 
+    }    
   ]
 }
