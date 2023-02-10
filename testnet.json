@@ -128,8 +128,8 @@
       {
         "name": "Dai Stablecoin",
         "symbol": "DAI",
-        "address": "",
-        "chainId": 10,
+        "address": "0x53C80C09513205E07DC4c25ae847f206e5165F78",
+        "chainId": 1,
         "decimals": 18,
         "logoURI": "https://optimistic.etherscan.io/token/images/MCDDai_32.png"
       }    
