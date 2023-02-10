@@ -1,0 +1,138 @@
+{
+    "name": "MultiChain Testnet Token List",
+    "timestamp": "2023-01-23T11:00:00.414Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "logoURI": "https://badgen.net/badge/icon/TT/E2B13C?icon=bitcoin&label",
+    "keywords": [
+      "tokenlist",
+      "TT",
+      "Testnet"
+    ],
+    "tokens": [
+      {
+        "name": "PancakeSwap Token",
+        "symbol": "CAKE",
+        "address": "",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+      },
+       {
+        "name": "Binance-Peg Ethereum Token",
+        "symbol": "ETH",
+        "address": "",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/ethereum_32.png"
+      },
+      {
+        "name": "Binance Pegged Bitcoin",
+        "symbol": "BTCB",
+        "address": "",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+      },
+      {
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "address": "",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+      }, 
+      {
+        "name": "Wrapped BNB",
+        "symbol": "WBNB",
+        "address": "",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/binance_32.png"
+      },
+      {
+        "name": "Binance-Peg BUSD",
+        "symbol": "BUSD",
+        "address": "",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/busd_32_2.png"
+      }, 
+      {
+        "name": "Binance-Peg BSC-USD",
+        "symbol": "USDT",
+        "address": "",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/busdt_32.png"
+      },
+       {
+        "name": "Binance-Peg USD Coin",
+        "symbol": "USDC",
+        "address": "",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
+      }, 
+       {
+        "name": "USD Coin (USDC)",
+        "symbol": "USDC",
+        "address": "",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://optimistic.etherscan.io/token/images/usdc_32.png"
+      }, 
+       {
+        "name": "Wrapped BTC",
+        "symbol": "wBTC",
+        "address": "",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+      },
+      {
+        "name": "Synthetix USD",
+        "symbol": "sUSD",
+        "address": "",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg"
+       },
+      {
+        "name": "Optimistic Thales Token",
+        "symbol": "THALES",
+        "address": "",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/THALES/logo.png"
+      },
+      {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "address": "",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      },
+      {
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "address": "",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+      },
+      {
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "address": "",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://optimistic.etherscan.io/token/images/MCDDai_32.png"
+      }    
+    ]
+  }
+  
