@@ -80,16 +80,16 @@
        {
         "name": "USD Coin (USDC)",
         "symbol": "USDC",
-        "address": "",
-        "chainId": 10,
+        "address": "0xa3726f2e6423caF1824cD7721B543B29b621fB4f",
+        "chainId": 1,
         "decimals": 18,
         "logoURI": "https://optimistic.etherscan.io/token/images/usdc_32.png"
       }, 
        {
         "name": "Wrapped BTC",
         "symbol": "wBTC",
-        "address": "",
-        "chainId": 10,
+        "address": "0x76744d62c4AE61139EDad3635ab7C78Dc7B9ccB0",
+        "chainId": 1,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
       },
@@ -112,8 +112,8 @@
       {
         "name": "Tether USD",
         "symbol": "USDT",
-        "address": "",
-        "chainId": 10,
+        "address": "0x21A9068CE39302184D2875605A256a966c9bdB73",
+        "chainId": 1,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
       },
