@@ -17,71 +17,71 @@
         "name": "PancakeSwap Token",
         "symbol": "CAKE",
         "address": "",
-        "chainId": 56,
+        "chainId": 97,
         "decimals": 18,
         "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
       },
        {
         "name": "Binance-Peg Ethereum Token",
         "symbol": "ETH",
-        "address": "",
-        "chainId": 56,
+        "address": "0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378",
+        "chainId": 97,
         "decimals": 18,
         "logoURI": "https://bscscan.com/token/images/ethereum_32.png"
       },
       {
         "name": "Binance Pegged Bitcoin",
         "symbol": "BTCB",
-        "address": "",
-        "chainId": 56,
+        "address": "0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
+        "chainId": 97,
         "decimals": 18,
         "logoURI": "https://tokens.pancakeswap.finance/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
       },
       {
-        "name": "ChainLink Token",
-        "symbol": "LINK",
-        "address": "",
-        "chainId": 56,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
-      }, 
-      {
         "name": "Wrapped BNB",
         "symbol": "WBNB",
-        "address": "",
-        "chainId": 56,
+        "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+        "chainId": 97,
         "decimals": 18,
         "logoURI": "https://bscscan.com/token/images/binance_32.png"
       },
       {
         "name": "Binance-Peg BUSD",
         "symbol": "BUSD",
-        "address": "",
-        "chainId": 56,
+        "address": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee",
+        "chainId": 97,
         "decimals": 18,
         "logoURI": "https://bscscan.com/token/images/busd_32_2.png"
       }, 
       {
         "name": "Binance-Peg BSC-USD",
         "symbol": "USDT",
-        "address": "",
-        "chainId": 56,
+        "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
+        "chainId": 97,
         "decimals": 18,
         "logoURI": "https://bscscan.com/token/images/busdt_32.png"
       },
        {
         "name": "Binance-Peg USD Coin",
         "symbol": "USDC",
-        "address": "",
-        "chainId": 56,
+        "address": "0x64544969ed7EBf5f083679233325356EbE738930",
+        "chainId": 97,
         "decimals": 18,
-        "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
-      }, 
+        "logoURI": "https://tokens.bscswap.com/images/0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867.pn"
+      },
+       {
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "address": "0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://optimistic.etherscan.io/token/images/MCDDai_32.png"
+      },
        {
         "name": "USD Coin (USDC)",
         "symbol": "USDC",
         "address": "0xa3726f2e6423caF1824cD7721B543B29b621fB4f",
-        "chainId": 1,
+        "chainId": 5,
         "decimals": 18,
         "logoURI": "https://optimistic.etherscan.io/token/images/usdc_32.png"
       }, 
@@ -89,15 +89,31 @@
         "name": "Wrapped BTC",
         "symbol": "wBTC",
         "address": "0x76744d62c4AE61139EDad3635ab7C78Dc7B9ccB0",
-        "chainId": 1,
+        "chainId": 5,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
       },
+       {
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "address": "0x53C80C09513205E07DC4c25ae847f206e5165F78",
+        "chainId": 5,
+        "decimals": 18,
+        "logoURI": "https://optimistic.etherscan.io/token/images/MCDDai_32.png"
+      },
+      {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "address": "0x21A9068CE39302184D2875605A256a966c9bdB73",
+        "chainId": 5,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      },  
       {
         "name": "Synthetix USD",
         "symbol": "sUSD",
         "address": "",
-        "chainId": 10,
+        "chainId": 420,
         "decimals": 18,
         "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg"
        },
@@ -105,7 +121,7 @@
         "name": "Optimistic Thales Token",
         "symbol": "THALES",
         "address": "",
-        "chainId": 10,
+        "chainId": 420,
         "decimals": 18,
         "logoURI": "https://ethereum-optimism.github.io/data/THALES/logo.png"
       },
@@ -113,23 +129,15 @@
         "name": "Tether USD",
         "symbol": "USDT",
         "address": "0x21A9068CE39302184D2875605A256a966c9bdB73",
-        "chainId": 1,
+        "chainId": 420,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-      },
-      {
-        "name": "ChainLink Token",
-        "symbol": "LINK",
-        "address": "",
-        "chainId": 10,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
       },
       {
         "name": "Dai Stablecoin",
         "symbol": "DAI",
         "address": "0x53C80C09513205E07DC4c25ae847f206e5165F78",
-        "chainId": 1,
+        "chainId": 420,
         "decimals": 18,
         "logoURI": "https://optimistic.etherscan.io/token/images/MCDDai_32.png"
       }    
