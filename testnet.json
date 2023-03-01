@@ -48,7 +48,7 @@
       {
         "name": "Binance-Peg BUSD",
         "symbol": "BUSD",
-        "address": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee",
+        "address": "0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7",
         "chainId": 97,
         "decimals": 18,
         "logoURI": "https://bscscan.com/token/images/busd_32_2.png"
