@@ -111,7 +111,16 @@
             "chainId": 10,
             "decimals": 18,
             "logoURI": "https://ethereum-optimism.github.io/data/THALES/logo.png"
+            
         },
+         {
+            "name": "Angle EUR",
+            "symbol": "agEUR",
+            "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
+            "chainId": 10,
+            "decimals": 18,
+            "logoURI": "https://optimistic.etherscan.io/token/images/ageurop_32.png"
+           },
         {
             "name": "Tether USD",
             "symbol": "USDT",
