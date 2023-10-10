@@ -169,7 +169,7 @@
             "symbol": "USDT",
             "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
             "chainId": 10,
-            "decimals": 18,
+            "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
         },
         {
