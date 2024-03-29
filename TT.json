@@ -15,7 +15,7 @@
         {
             "name": "Wrapped BTC",
             "symbol": "WBTC",
-            "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "chainId": 1,
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
