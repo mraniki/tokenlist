@@ -255,6 +255,14 @@
         {
             "name": "Angle EUR",
             "symbol": "agEUR",
+            "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://optimistic.etherscan.io/token/images/ageurop_32.png"
+        },
+        {
+            "name": "Angle EUR",
+            "symbol": "agEUR",
             "address": "0x9485aca5bbbe1667ad97c7fe7c4531a624c8b1ed",
             "chainId": 10,
             "decimals": 18,
