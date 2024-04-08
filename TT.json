@@ -213,6 +213,14 @@
             "logoURI": "https://assets.coingecko.com/coins/images/17385/standard/Tether_new.png?1696516934"
         },
         {
+            "name": "EURA previously agEUR",
+            "symbol": "EURA",
+            "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+            "chainId": 18,
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/17385/standard/Tether_new.png?1696516934"
+        },
+        {
             "name": "Uniswap",
             "symbol": "UNI",
             "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
